@@ -1,36 +1,66 @@
-# Édouard Dubois - Back-end Developer
+# Édouard Dubois  -  Back-end Developer
+[Email](mailto:edou.dubois@gmail.com)
+| [Github](https://github.com/EdouardDubois/)
+| [LinkedId](https://www.linkedin.com/in/edouard-dubois-15548b84/)
 
-## Skills
-Javascript | Node.js | Express
-MySQL | Mondo.db
-HTML/CSS (Pug)
-Python Django
+I'm a Javascript Back-end developer from Paris.
+
+My main expertise is Node.js but I'm enthousiast and open to other technologies.
+
+```
+  Node.js   |   Express   |   SQL/MySQL   |   MondoDB   |   HTML/CSS    |   Django (Python)   |   Git
+```
+
 
 ## Experience
 
-### Back-end Developer
-#### Cabinet d'expertcomptable.com
-Mar 2017 – Present, Paris
+### Back-end Developer @ Cabinet d'expert comptable
+#### Mar 2017 – Present (2y), Paris
 
-### Digital Project Manager
-#### Emakina.FR
-Aug 2015 – Oct 2016, Paris
+```
+As a member of a 4/6 developers team I am in charge of developing and maintaining our API and it's
+functionalities including but not limited to :
 
-### Digital Project Manager
-#### BETC Digital
-Sep 2014 – Jul 2015, Paris
+ - Online file system for our users files and folders
+ - Accounting client management
+ - Billing webapp
+ - Sync with various banking, payment and communications APIs
+ - ...
+```
 
-### Assistant Art Director
-#### MAYO Publicidad
-Jan 2014 – May 2014, Lima
+__Back-end stack :__ Node.js + Express + MySql (Sequlize as ORM) + Joi (validation) + Mocha (functional testing)
+
+__Architecture :__ AWS (S3, SES, CloudWatch, ECS, EFS...) + Docker
+
+__Front-end stack:__ Angular 7 + Ionic
+
+
+
+### Digital Project Manager @ Emakina.FR
+#### Aug 2015 – Oct 2016 (1y 3m), Paris
+
+```
+As a project manager I spec'd planned and supervised the development of various digital projects
+by a remote team of designers and developers. Most projects were e-shops or showcase websites.
+```
+
+
+### Digital Project Manager @ BETC Digital
+#### Sep 2014 – Jul 2015 (11m), Paris
+
+```
+Working with various technical and creative teams I was supervising the creation of numerous
+advertising assets for web display advertising (Clients: Crédit Agricole, Lacoste).
+```
 
 ## Education
 
 ### Fullstack Javascript Developer - Level II Certificate
-#### IFOCOP (2016 – 2017)
-<details><summary>ESSCA (2008 – 2014)</summary>
+<details><summary>IFOCOP (2016 – 2017)</summary>
 <p>
-Javascript | JQuery | Angular (1.5) | Node.js | Mongo | Express | Meteor
+Professional course specialized on fullstack Javascript we developed fully functional projects using a vast array of technologies (Javascript / JQuery / Angular (1.5) / Node.js / MongoDB / Express / Meteor).
+
+Class was aimed at students with an existing background in web-development mostly composed of developers wanting to learn a new stack.
 </p>
 </details>
 
