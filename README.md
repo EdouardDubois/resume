@@ -39,8 +39,12 @@ Javascript | JQuery | Angular (1.5) | Node.js | Mongo | Express | Meteor
 ### ESSCA
 #### Master 2 - Organizational Communication
 2008 – 2014
-
+<details><summary>DETAIL</summary>
+<p>
 With more than 100 years of experience, ESSCA is a member of the Conférence des Grandes Ecoles and welcomes 400 high school graduates each year into the first year of a five year programme culminating in ESSCA's diploma, certified by the Ministry of National Education and awarded the MASTER status.
+</p>
+</details>
+
 
 ### 东南大学 (Southeast University)
 #### International Business
@@ -50,5 +54,7 @@ Southeast University is a public research university located in Nanjing, Jiangsu
 
 ## Languages
  French - Native language
+
  Spanish -  Native language
+
  English - Bilingual proficiency (TOEIC 970/990 + TOEFL ITP - 643/670)
