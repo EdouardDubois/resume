@@ -34,7 +34,7 @@ __Architecture :__ AWS (S3, SES, CloudWatch, ECS, EFS...) + Docker
 
 __Front-end stack:__ Angular 7 + Ionic
 
-
+___
 
 ### Digital Project Manager @ Emakina.FR
 #### Aug 2015 – Oct 2016 (1y 3m), Paris
@@ -44,6 +44,7 @@ As a project manager I spec'd planned and supervised the development of various 
 by a remote team of designers and developers. Most projects were e-shops or showcase websites.
 ```
 
+___
 
 ### Digital Project Manager @ BETC Digital
 #### Sep 2014 – Jul 2015 (11m), Paris
@@ -52,6 +53,8 @@ by a remote team of designers and developers. Most projects were e-shops or show
 Working with various technical and creative teams I was supervising the creation of numerous
 advertising assets for web display advertising (Clients: Crédit Agricole, Lacoste).
 ```
+
+___
 
 ## Education
 
