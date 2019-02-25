@@ -1,7 +1,7 @@
 # Édouard Dubois  -  Back-end Developer
 [Email](mailto:edou.dubois@gmail.com)
 | [Github](https://github.com/EdouardDubois/)
-| [LinkedId](https://www.linkedin.com/in/edouard-dubois-15548b84/)
+| [LinkedIn](https://www.linkedin.com/in/edouard-dubois-15548b84/)
 
 I'm a Javascript Back-end developer from Paris.
 
