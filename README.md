@@ -18,8 +18,8 @@ My main expertise is javascript (strongy prefere typescript) Vue / Node stack bu
 #### Jun 2019 – Present (6y), Paris
 
 ```
-As a member of a 5 developers pod within a 100+ developper global team. I work on developing front-end
-interfaces for our users notably including :
+As a member of a 5 developers pod within a 100+ developper global team. I work on developing
+front-end interfaces for our users notably including :
 
   - Micro front-end architecture.
   - Data visualisation dashboards.
