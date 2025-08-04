@@ -14,8 +14,25 @@ My main expertise is Node.js but I'm enthousiast and open to other technologies.
 
 ## Experience
 
+### Front-end Developer @ sennder
+#### Jun 2019 – Present (6y), Paris
+
+```
+As a member of a 5 developers pod within a 100+ developper global team. I work on developing front-end
+interfaces for our users notably including :
+
+  - Micro front-end architecture.
+  - Data visualisation dashboards.
+  - Design system (components library).
+ - ...
+```
+
+__Front-end stack:__ Vue 2 -> Vue 3 (Typescript), plotly (data visualisation), cypress (testing), using µFE architecture + gitlab (versioning)
+
+___
+
 ### Back-end Developer @ Cabinet d'expert comptable
-#### Mar 2017 – Present (2y), Paris
+#### Mar 2017 – Mar 2019 (2y), Paris
 
 ```
 As a member of a 4/6 developers team I am in charge of developing and maintaining our API and it's
@@ -29,10 +46,6 @@ functionalities including but not limited to :
 ```
 
 __Back-end stack :__ Node.js + Express + MySql (Sequlize as ORM) + Joi (validation) + Mocha (functional testing)
-
-__Architecture :__ AWS (S3, SES, CloudWatch, ECS, EFS...) + Docker
-
-__Front-end stack:__ Angular 7 + Ionic
 
 ___
 
