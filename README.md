@@ -3,12 +3,12 @@
 | [Github](https://github.com/EdouardDubois/)
 | [LinkedIn](https://www.linkedin.com/in/edouard-dubois-15548b84/)
 
-I'm a Javascript Back-end developer from Paris.
+I'm a Javascript Fullstack developer from Paris.
 
-My main expertise is Node.js but I'm enthousiast and open to other technologies.
+My main expertise is javascript (strongy prefere typescript) Vue / Node stack but I'm enthousiast and open to other technologies.
 
 ```
-  Node.js   |   Express   |   SQL/MySQL   |   MondoDB   |   HTML/CSS    |   Django (Python)   |   Git
+  Vue   |   Node.js   |   Express   |   SQL/MySQL   |   MongoDB   |   HTML/CSS   |   Git
 ```
 
 
