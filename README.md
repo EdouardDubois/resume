@@ -1,4 +1,4 @@
-# Édouard Dubois  -  Back-end Developer
+# Édouard Dubois  -  Fullstack Developer
 [Email](mailto:edou.dubois@gmail.com)
 | [Github](https://github.com/EdouardDubois/)
 | [LinkedIn](https://www.linkedin.com/in/edouard-dubois-15548b84/)
