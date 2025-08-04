@@ -24,7 +24,6 @@ interfaces for our users notably including :
   - Micro front-end architecture.
   - Data visualisation dashboards.
   - Design system (components library).
- - ...
 ```
 
 __Front-end stack:__ Vue 2 -> Vue 3 (Typescript), plotly (data visualisation), cypress (testing), using µFE architecture + gitlab (versioning)
@@ -42,7 +41,6 @@ functionalities including but not limited to :
  - Accounting client management
  - Billing webapp
  - Sync with various banking, payment and communications APIs
- - ...
 ```
 
 __Back-end stack :__ Node.js + Express + MySql (Sequlize as ORM) + Joi (validation) + Mocha (functional testing)
